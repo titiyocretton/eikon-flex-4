@@ -34,6 +34,13 @@
 }
 
 /*7. exercice-flex-grow-2 */
+.exercice-flex-grow-2 .container {
+  flex-direction: column;
+}
+
+.exercice-flex-grow-2 .element-green {
+  flex-grow: 1;
+}
 
 /*8. exercice-flex-grow-3 */
 
