@@ -15,6 +15,10 @@
 }
 
 /*4. exercice-align-content-2 */
+.exercice-align-content-2 .container {
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
 /*5. exercice-align-content-3 */
 
