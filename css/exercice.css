@@ -43,9 +43,7 @@
 }
 
 /*8. exercice-flex-grow-3 */
-.exercice-flex-grow-3 .element-green,
-.exercice-flex-grow-3 .element-red,
-.exercice-flex-grow-3 .element-blue {
+.exercice-flex-grow-3 .element {
   flex-grow: 1;
 }
 
