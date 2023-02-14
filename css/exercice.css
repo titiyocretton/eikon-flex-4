@@ -1,4 +1,7 @@
 /* 1. exercice-flex */
+.exercice-flex .container {
+  display: flex;
+}
 
 /* 2. exercice-flex-2 */
 
